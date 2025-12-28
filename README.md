@@ -35,17 +35,19 @@ Millions of people live alone globally with no fixed routine or daily check-ins.
 ## 🖼️ Screenshots
 
 <!-- Add your screenshots here -->
+
 <!-- Example:
+
 ![Dashboard](screenshots/dashboard.png)
-<img width="374" height="793" alt="Screenshot 2025-12-28 at 16 13 34" src="https://github.com/user-attachments/assets/213a74b2-e75f-432e-b040-a3131e7d2adc" />
+
 
 ![Onboarding](screenshots/onboarding.png)
 
 ![Alert System](screenshots/alerts.png)
+
 -->
 
 *Screenshots coming soon!*
-<img width="383" height="753" alt="Screenshot 2025-12-28 at 16 10 41" src="https://github.com/user-attachments/assets/d0de8eb6-f092-4944-89a5-85b2570dde24" />
 
 ---
 
