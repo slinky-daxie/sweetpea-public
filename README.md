@@ -45,6 +45,7 @@ Millions of people live alone globally with no fixed routine or daily check-ins.
 -->
 
 *Screenshots coming soon!*
+<img width="383" height="753" alt="Screenshot 2025-12-28 at 16 10 41" src="https://github.com/user-attachments/assets/d0de8eb6-f092-4944-89a5-85b2570dde24" />
 
 ---
 
